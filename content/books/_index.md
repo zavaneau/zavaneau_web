@@ -5,7 +5,8 @@ draft = false
 +++
 
 ---
-lead: "Basic, simple and minimal Hugo theme"
+"Published and fourtcoming books under Zavaneau"
+---
 
 
 *Poetry In My Own Time, Volume 1* (2021-2024)
