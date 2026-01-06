@@ -6,10 +6,16 @@ copyright = "Zavaneau © {year}"
 
 # Controls the navigation
 [[menu.main]]
+  identifier = "home"
+  name = "home"
+  title = "Home"
+  url = "/"
+
+[[menu.main]]
   identifier = "about"
   name = "about"
   title = "About"
-  url = "/"
+  url = "/_about"
 
 [[menu.main]]
   identifier = "instagram"
