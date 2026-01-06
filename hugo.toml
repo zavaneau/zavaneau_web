@@ -1,3 +1,62 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'zavaneau'
+theme = 'not-much'
+copyright = "Zavaneau © {year}"
+
+# Controls the navigation
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "About"
+  url = "/"
+
+[[menu.main]]
+  identifier = "instagram"
+  name = "instagram"
+  title = "Instagram"
+  url = "https://www.instagram.com/zavaneau?igsh=NTc4MTIwNjQ2YQ=="
+
+[[menu.main]]
+  identifier = "substack"
+  name = "substack"
+  title = "Substack"
+  url = "https://futurelationality.substack.com/"
+
+[[menu.main]]
+  identifier = "posts"
+  name = "posts"
+  title = "Posts"
+  url = "/posts"
+
+[[menu.main]]
+  identifier = "medium"
+  name = "medium"
+  title = "Medium"
+  url = "https://medium.com/@thunderblazz2"
+
+[[menu.main]]
+  identifier = "books"
+  name = "books"
+  title = "Books"
+  url = "/books"
+
+[[menu.main]]
+  identifier = "zines"
+  name = "zines"
+  title = "Zines"
+  url = "/zines"
+
+[params]
+theme = "light"
+palette = "eink"
+
+[params.giscus]
+repository = "username/repository"
+repositoryId = "repositoryId"
+categoryName = "categoryName"
+categoryId = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
+language = "en"
+lazyLoading = true
