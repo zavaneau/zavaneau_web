@@ -5,7 +5,7 @@ draft = false
 +++
 
 ---
-lead: "Published and fourtcoming books under Zavaneau"
+**PUBLISHED & FOURTHCOMING BOOKS**
 ---
 
 
