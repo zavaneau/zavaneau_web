@@ -4,7 +4,7 @@ date = '2026-01-06T13:29:19-08:00'
 draft = false
 +++
 
-![P1P1](static/HABLABA_ONE.png)
+![P1P1](posts/HABLABA_ONE.png)
 
 Greetings,
 
@@ -16,6 +16,6 @@ Expect promotional material, writing, Zines, photography, artwork, exhibition, a
 
 In solidarity,
 
-![P1P2](static/CROSS-ANTHEM.png)
+![P1P2](content/CROSS-ANTHEM.png)
 
 ---

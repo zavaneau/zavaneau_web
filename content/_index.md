@@ -13,6 +13,6 @@ Zavaneau (zavaneau) is the portfolio/project of Diego Zavala-Morineau, an alias 
 
 Save this webpage for future promotiomal content, performances and events, and happenings in the creative writing world-- wherever Zavaneau finds itself.
 
-![LOGO](static/CROSS-ANTHEM.png)
+![LOGO](content/CROSS-ANTHEM.png)
 
 ---
