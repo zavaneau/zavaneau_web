@@ -10,7 +10,7 @@ Diego was born in San Diego, California, on July 1st 2003 to a Mexican mother an
 
 In 2024, Diego published his first collected works,  poetry in my own time, and poetry and interviews to the City Works Journal in 2025. Diego writes poetry and political commentary on Medium and Substack. Diego was a work-study for the San Diego City College English Department  as a teaching assistant for the Hermanos Unidos Brothers United Program in Intermediate Composition, and worked part time as a independent research assistant and editor. His fourthcoming work will be featured in the 2026 issue of the Agave Review.
 
-Diego has also been part of numerous organizations, not limited to the ACLU, the Youth V. Oil Campaign,  the HTHCV Alumni Mentorship Program, SJP and MEChA de City College, the AFT Guild 1911, and is currently a member of the Claremont Student Workers Alliance. 
+Diego has also been part of numerous organizations, not limited to the ACLU, the Youth V. Oil Campaign,  the HTHCV Alumni Mentorship Program, SJP/MEChA de City College, the AFT Guild 1911, and is currently a member of the Claremont Student Workers Alliance. 
 
 Diego studied Engineering at UC Berkeley through the SEEDS Scholars Honors Program from 2021-2022. In 2025, Diego graduated with an Associates of Arts with honors in English from San Diego City College. Currently, he is studying English and Caribbean Studies at Pomona College.  
 
