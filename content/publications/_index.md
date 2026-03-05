@@ -17,8 +17,10 @@ draft = false
 
 **PUBLICATIONS**
 
-*The Agave Review, 2025-2026 Issue,* "IN QUETZAL" (2025) and "CORD THE WIND" (2025) **COMING SOON**
+*[The Agave Review, Issue #10 Fall 2025](http://www.agave-review.com/poetry.html)* "IN QUETZAL" (2025) and "CORD THE WIND" (2025)
 
 *[City Works 2025 Literary Journal, Volume 31](http://www.cityworkspress.org/journal.html)*, "Tighter" (2025)
 
 *SDCCD Honorable Mention 2023 Newsletter,* "100 MPH" (2023)
+
+[http://www.agave-review.com/poetry.html]: http://www.agave-review.com/poetry.html

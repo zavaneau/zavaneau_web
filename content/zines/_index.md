@@ -10,7 +10,7 @@ draft = false
 
 **DIGITAL ZINES**
 
-*Mortal Encounter* (2026) **COMING SOON**
+*Dreams Never End* (2026) **COMING SOON**
 
 *Estrangement Response* (2025) **COMING SOON**
 
