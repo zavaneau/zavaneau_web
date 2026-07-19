@@ -29,5 +29,5 @@ theme = "not-much"
      identifier = "medium"
      name = "medium"
      title = "Medium"
-     url = https://medium.com/@zavaneau
+     url = "https://medium.com/@zavaneau"
      weight = 4
