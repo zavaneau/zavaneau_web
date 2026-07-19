@@ -24,3 +24,10 @@ theme = "not-much"
     title = "About"
     url = "/about"
     weight = 2
+
+    [[menu.main]]
+     identifier = "medium"
+     name = "medium"
+     title = "Medium"
+     url = https://medium.com/@zavaneau
+     weight = 4
