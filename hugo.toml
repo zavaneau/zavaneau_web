@@ -25,9 +25,17 @@ theme = "not-much"
     url = "/about"
     weight = 2
 
-    [[menu.main]]
-     identifier = "medium"
-     name = "medium"
-     title = "Medium"
-     url = "https://medium.com/@zavaneau"
-     weight = 4
+  [[menu.main]]
+    identifier = "medium"
+    name = "medium"
+    title = "Medium"
+    url = "https://medium.com/@zavaneau"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "material"
+    name = "material"
+    title = "Material"
+    url = "/material"
+    weight = 5
+
